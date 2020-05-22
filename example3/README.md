@@ -4,7 +4,9 @@ Spring Cloud Eureka 服务注册中心实例，简单的服务注册实现。
 
 - 支持负载平衡。
 - 支持 Eureka Server 用户名密码安全认证。
-- 支持 Eureka Server 主、从节点（集群部署）服务注册中心。
+- 支持 Eureka Server 主、从节点服务注册中心。
+- 集群部署。
+- 高可用。
 
 ```
 │
@@ -25,3 +27,4 @@ Spring Cloud Eureka 服务注册中心实例，简单的服务注册实现。
 - 从节点 1（ eureka-server-slave1）注册到主节点（eureka-server-master）、从节点 2（eureka-server-slave2）。
 - 从节点 2（eureka-server-slave2）注册到主节点（eureka-server-master）、从节点 1（ eureka-server-slave1）。
 - 所有服务需要注册到主节点（eureka-server-master）、节点 1（ eureka-server-slave1）、从节点 2（eureka-server-slave2）。
+
