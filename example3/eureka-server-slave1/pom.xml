@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.godcheese</groupId>
     <artifactId>eureka-server-slave1</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>eureka-server-slave1</name>
     <description>Eureka Server 从节点 1</description>
 

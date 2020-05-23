@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.godcheese</groupId>
     <artifactId>service2-1</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>service2-1</name>
     <description>服务 2 的 copy 1</description>
 
